@@ -1,0 +1,79 @@
+andrey@MacBook-Pro-Andrey my-project % ls -la
+total 0
+drwxr-xr-x@ 3 andrey  staff   96 24 май 01:08 .
+drwx------@ 7 andrey  staff  224 24 май 00:49 ..
+drwxr-xr-x  9 andrey  staff  288 24 май 01:08 .git
+andrey@MacBook-Pro-Andrey my-project % cd .git
+andrey@MacBook-Pro-Andrey .git % ls
+HEAD		hooks		refs
+config		info
+description	objects
+andrey@MacBook-Pro-Andrey .git % cd objects
+andrey@MacBook-Pro-Andrey objects % ls -la
+total 0
+drwxr-xr-x  4 andrey  staff  128 24 май 01:08 .
+drwxr-xr-x  9 andrey  staff  288 24 май 01:08 ..
+drwxr-xr-x  2 andrey  staff   64 24 май 01:08 info
+drwxr-xr-x  2 andrey  staff   64 24 май 01:08 pack
+andrey@MacBook-Pro-Andrey objects % cd ..
+andrey@MacBook-Pro-Andrey .git % cd ..
+andrey@MacBook-Pro-Andrey my-project % ls -la
+total 0
+drwxr-xr-x@ 3 andrey  staff   96 24 май 01:08 .
+drwx------@ 7 andrey  staff  224 24 май 00:49 ..
+drwxr-xr-x  9 andrey  staff  288 24 май 01:08 .git
+andrey@MacBook-Pro-Andrey my-project % ls
+andrey@MacBook-Pro-Andrey my-project % 
+  [Восстановлен 24 мая 2023 г., 17:46:04]
+Last login: Wed May 24 17:45:55 on console
+Restored session: среда, 24 мая 2023 г. 01:17:01 (MSK)
+%                                                        andrey@MacBook-Pro-Andrey my-project % clear
+
+andrey@MacBook-Pro-Andrey my-project % nano test.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09         File: test.txt          Modified  
+
+Hello GIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get He^O WriteO^R Read F^Y Prev P^K Cut Te^C Cur Po
+^X Exit  ^J Justif^W Where ^V Next P^U UnCut ^T To Spe
